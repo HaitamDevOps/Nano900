@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nano900 a network engineering student
+- 👀 I’m interested in DevOps 
+- 🌱 I’m currently learning diverse programming languages (Java, Python and C#)
+- 💞️ I’m looking to collaborate on different projects releated to the DevOps & Cloud Computing
+- 📫 You can contact me via my email elkadirihaitam1@gmail.com
